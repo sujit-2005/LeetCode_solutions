@@ -1,0 +1,50 @@
+3829. Design Ride Sharing System
+
+A ride sharing system manages ride requests from riders and availability from drivers. Riders request rides, and drivers become available over time. The system should match riders and drivers in the order they arrive.
+
+Implement the RideSharingSystem class:
+..RideSharingSystem() Initializes the system.
+..void addRider(int riderId) Adds a new rider with the given riderId.
+..void addDriver(int driverId) Adds a new driver with the given driverId.
+..int[] matchDriverWithRider() Matches the earliest available driver with the earliest waiting rider and removes both of them from the system. Returns an integer array of size 2 where result = [driverId, riderId] if a match is made. If no match is available, returns [-1, -1].
+..void cancelRider(int riderId) Cancels the ride request of the rider with the given riderId if the rider exists and has not yet been matched.
+
+Explination: 
+  This problem asks you to design a simple ride-sharing matching system, similar to real apps like Uber or Ola Cabs, where riders request trips and drivers become available over time. Both riders and drivers should be handled in arrival order (FIFO – first come, first served). So when a rider or driver is added, they wait in their respective queues. When matching, the system always pairs the earliest waiting driver with the earliest waiting rider. For example, if riders [101, 102] and drivers [5, 6] are waiting, the first match should be [5, 101], not random.
+
+The system supports adding riders/drivers, matching one pair, and canceling a rider before they are matched. If either side is empty during matching, return [-1, -1]. For instance, if rider 102 cancels before a driver arrives, they are simply removed from the queue and won’t be matched later. Overall, you’re mainly managing two queues (drivers and riders) and performing orderly matching and removal based on these rules.
+
+Solution: 
+
+from collections import deque
+class RideSharingSystem:
+
+    def __init__(self):
+        self.riders=deque()
+        self.drivers=deque()
+
+    def addRider(self, riderId: int) -> None:
+        self.riders.append(riderId)
+
+    def addDriver(self, driverId: int) -> None:
+        self.drivers.append(driverId)
+
+    def matchDriverWithRider(self) -> List[int]:
+        if not self.riders or not self.drivers:
+            return[-1, -1]
+        driver = self.drivers.popleft()
+        rider= self.riders.popleft()
+        return [driver, rider]
+    def cancelRider(self, riderId: int) -> None:
+        try:
+            self.riders.remove(riderId)
+        except ValueError:
+            pass
+
+Explination:
+
+The solution models the ride-sharing system using two queues (deque) — one for riders and one for drivers — to maintain first-come, first-served (FIFO) order. When a rider or driver is added using append(), they go to the end of their respective queue, just like standing at the back of a line. This ensures fairness: whoever arrives earlier gets matched earlier. For example, if riders [101, 102] and drivers [5, 6] are added in that order, both queues preserve this sequence.
+
+The matchDriverWithRider() method performs the actual pairing. If either queue is empty, no match is possible, so it returns [-1, -1]. Otherwise, popleft() removes the earliest driver and earliest rider, forming a match. So with drivers [5, 6] and riders [101, 102], the first call returns [5, 101], and the remaining queues become [6] and [102]. This guarantees matching strictly by arrival order.
+
+The cancelRider() method lets a rider leave before being matched. It simply removes that rider from the queue if present. For instance, if riders are [101, 102, 103] and 102 cancels, the queue becomes [101, 103], and they won’t be considered during matching. Overall, the system efficiently simulates real-world ride allocation using simple queue operations.
