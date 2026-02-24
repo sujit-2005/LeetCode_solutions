@@ -11,6 +11,7 @@ muhahahahaha😈
 | ------- |
 | [0013-roman-to-integer](https://github.com/sujit-2005/adm_python/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sujit-2005/adm_python/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/sujit-2005/adm_python/tree/master/0020-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -23,4 +24,8 @@ muhahahahaha😈
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sujit-2005/adm_python/tree/master/0013-roman-to-integer) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sujit-2005/adm_python/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
