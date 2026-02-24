@@ -6,6 +6,7 @@ muhahahahaha😈
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sujit-2005/adm_python/tree/master/0014-longest-common-prefix) |
+| [0118-pascals-triangle](https://github.com/sujit-2005/adm_python/tree/master/0118-pascals-triangle) |
 ## String
 |  |
 | ------- |
@@ -28,4 +29,8 @@ muhahahahaha😈
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sujit-2005/adm_python/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/sujit-2005/adm_python/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
