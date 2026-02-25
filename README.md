@@ -9,6 +9,7 @@ muhahahahaha😈
 | [0118-pascals-triangle](https://github.com/sujit-2005/adm_python/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sujit-2005/adm_python/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 ## String
 |  |
 | ------- |
@@ -36,10 +37,12 @@ muhahahahaha😈
 | ------- |
 | [0118-pascals-triangle](https://github.com/sujit-2005/adm_python/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sujit-2005/adm_python/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -48,4 +51,16 @@ muhahahahaha😈
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Backtracking
+|  |
+| ------- |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
+## Matrix
+|  |
+| ------- |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
+## Bitmask
+|  |
+| ------- |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 <!---LeetCode Topics End-->
