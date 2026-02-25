@@ -30,10 +30,12 @@ muhahahahaha😈
 | ------- |
 | [0013-roman-to-integer](https://github.com/sujit-2005/adm_python/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0139-word-break) |
+| [0202-happy-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0202-happy-number) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sujit-2005/adm_python/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0202-happy-number) |
 ## Stack
 |  |
 | ------- |
@@ -76,4 +78,8 @@ muhahahahaha😈
 |  |
 | ------- |
 | [0139-word-break](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0139-word-break) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
