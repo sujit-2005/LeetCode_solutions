@@ -8,6 +8,7 @@ muhahahahaha😈
 | [0014-longest-common-prefix](https://github.com/sujit-2005/adm_python/tree/master/0014-longest-common-prefix) |
 | [0118-pascals-triangle](https://github.com/sujit-2005/adm_python/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sujit-2005/adm_python/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
@@ -38,6 +39,7 @@ muhahahahaha😈
 | ------- |
 | [0118-pascals-triangle](https://github.com/sujit-2005/adm_python/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sujit-2005/adm_python/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 ## Bit Manipulation
