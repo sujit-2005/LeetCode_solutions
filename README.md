@@ -19,6 +19,7 @@ muhahahahaha😈
 | [0013-roman-to-integer](https://github.com/sujit-2005/adm_python/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sujit-2005/adm_python/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sujit-2005/adm_python/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0139-word-break) |
 ## Trie
 |  |
@@ -81,5 +82,6 @@ muhahahahaha😈
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
