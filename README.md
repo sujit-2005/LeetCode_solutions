@@ -12,6 +12,7 @@ muhahahahaha😈
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sujit-2005/adm_python/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0139-word-break) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 ## String
 |  |
@@ -51,6 +52,7 @@ muhahahahaha😈
 | [0120-triangle](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sujit-2005/adm_python/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0139-word-break) |
+| [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 ## Bit Manipulation
@@ -95,5 +97,14 @@ muhahahahaha😈
 ## Greedy
 |  |
 | ------- |
+| [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
+## Tree
+|  |
+| ------- |
+| [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 <!---LeetCode Topics End-->
