@@ -50,6 +50,7 @@ muhahahahaha😈
 | ------- |
 | [0013-roman-to-integer](https://github.com/sujit-2005/adm_python/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0202-happy-number) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/sujit-2005/LeetCode_solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Stack
 |  |
 | ------- |
@@ -67,6 +68,7 @@ muhahahahaha😈
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/sujit-2005/LeetCode_solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -149,4 +151,8 @@ muhahahahaha😈
 | ------- |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sujit-2005/LeetCode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/sujit-2005/LeetCode_solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
