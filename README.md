@@ -20,6 +20,7 @@ muhahahahaha😈
 | [0740-delete-and-earn](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
@@ -76,6 +77,7 @@ muhahahahaha😈
 | [0213-house-robber-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0213-house-robber-ii) |
 | [0740-delete-and-earn](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
