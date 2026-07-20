@@ -16,6 +16,7 @@ muhahahahaha😈
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sujit-2005/adm_python/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0213-house-robber-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 | [0403-frog-jump](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0403-frog-jump) |
@@ -58,6 +59,7 @@ muhahahahaha😈
 | ------- |
 | [0013-roman-to-integer](https://github.com/sujit-2005/adm_python/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -112,6 +114,7 @@ muhahahahaha😈
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -121,6 +124,7 @@ muhahahahaha😈
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -179,6 +183,7 @@ muhahahahaha😈
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
