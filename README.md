@@ -22,6 +22,7 @@ muhahahahaha😈
 | [0746-min-cost-climbing-stairs](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1260-shift-2d-grid](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1260-shift-2d-grid) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1480-running-sum-of-1d-array](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1920-build-array-from-permutation](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1920-build-array-from-permutation) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -190,4 +191,8 @@ muhahahahaha😈
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0279-perfect-squares) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
