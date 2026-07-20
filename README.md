@@ -21,6 +21,7 @@ muhahahahaha😈
 | [0740-delete-and-earn](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1260-shift-2d-grid](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1260-shift-2d-grid) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1480-running-sum-of-1d-array](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -65,6 +66,7 @@ muhahahahaha😈
 | [0202-happy-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0202-happy-number) |
 | [0279-perfect-squares](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0279-perfect-squares) |
 | [0441-arranging-coins](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0441-arranging-coins) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sujit-2005/LeetCode_solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Stack
