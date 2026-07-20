@@ -18,6 +18,7 @@ muhahahahaha😈
 | [0139-word-break](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0403-frog-jump) |
+| [0414-third-maximum-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0740-delete-and-earn](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -107,6 +108,7 @@ muhahahahaha😈
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0015-3sum) |
+| [0414-third-maximum-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sujit-2005/LeetCode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
