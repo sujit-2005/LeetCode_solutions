@@ -6,13 +6,10 @@ class Solution:
                 freq[num]+=1
             else:
                 freq[num]=1
-        freq1={}
+        freq1=set()
         for f in freq.values():
             if f in freq1:
-                freq1[f]+=1
-            else:
-                freq1[f]=1
-        for ff in freq1.values():
-            if ff!=1:
                 return False
+            else:
+                freq1.add(f)
         return True
