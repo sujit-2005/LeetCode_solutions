@@ -20,6 +20,7 @@ muhahahahaha😈
 | [0213-house-robber-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0403-frog-jump](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0403-frog-jump) |
 | [0414-third-maximum-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0485-max-consecutive-ones) |
@@ -64,6 +65,7 @@ muhahahahaha😈
 | [0202-happy-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0740-delete-and-earn](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0740-delete-and-earn) |
 | [1207-unique-number-of-occurrences](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -119,6 +121,7 @@ muhahahahaha😈
 | [0169-majority-element](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -129,6 +132,7 @@ muhahahahaha😈
 | ------- |
 | [0169-majority-element](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -188,13 +192,16 @@ muhahahahaha😈
 | ------- |
 | [0053-maximum-subarray](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Binary Search
 |  |
@@ -214,4 +221,8 @@ muhahahahaha😈
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1480-running-sum-of-1d-array) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
