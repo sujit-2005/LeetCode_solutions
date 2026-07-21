@@ -23,6 +23,7 @@ muhahahahaha😈
 | [0213-house-robber-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0403-frog-jump](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0403-frog-jump) |
@@ -231,6 +232,7 @@ muhahahahaha😈
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Quickselect
 |  |
