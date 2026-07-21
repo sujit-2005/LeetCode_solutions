@@ -29,6 +29,7 @@ muhahahahaha😈
 | [0403-frog-jump](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0403-frog-jump) |
 | [0414-third-maximum-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0485-max-consecutive-ones) |
+| [0605-can-place-flowers](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -187,6 +188,7 @@ muhahahahaha😈
 | ------- |
 | [0011-container-with-most-water](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0045-jump-game-ii) |
+| [0605-can-place-flowers](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0605-can-place-flowers) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sujit-2005/LeetCode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
