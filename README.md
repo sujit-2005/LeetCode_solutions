@@ -22,6 +22,7 @@ muhahahahaha😈
 | [0213-house-robber-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0403-frog-jump](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0403-frog-jump) |
 | [0414-third-maximum-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0414-third-maximum-number) |
@@ -164,6 +165,7 @@ muhahahahaha😈
 | [0027-remove-element](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0283-move-zeroes) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sujit-2005/LeetCode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Simulation
