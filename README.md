@@ -29,6 +29,7 @@ muhahahahaha😈
 | [0403-frog-jump](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0403-frog-jump) |
 | [0414-third-maximum-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1089-duplicate-zeros](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1089-duplicate-zeros) |
@@ -233,6 +234,7 @@ muhahahahaha😈
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Quickselect
 |  |
