@@ -10,6 +10,7 @@ muhahahahaha😈
 | [0015-3sum](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0088-merge-sorted-array) |
@@ -94,9 +95,11 @@ muhahahahaha😈
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sujit-2005/adm_python/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0091-decode-ways) |
@@ -170,6 +173,7 @@ muhahahahaha😈
 | [0015-3sum](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0202-happy-number) |
@@ -244,4 +248,8 @@ muhahahahaha😈
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0347-top-k-frequent-elements) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
