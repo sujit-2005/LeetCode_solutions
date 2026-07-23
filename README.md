@@ -13,6 +13,7 @@ muhahahahaha😈
 | [0042-trapping-rain-water](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/sujit-2005/adm_python/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0119-pascals-triangle-ii) |
@@ -130,6 +131,7 @@ muhahahahaha😈
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0217-contains-duplicate) |
@@ -174,6 +176,7 @@ muhahahahaha😈
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0202-happy-number) |
