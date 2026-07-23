@@ -35,6 +35,7 @@ muhahahahaha😈
 | [0724-find-pivot-index](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0977-squares-of-a-sorted-array](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1260-shift-2d-grid) |
@@ -139,6 +140,7 @@ muhahahahaha😈
 | [0347-top-k-frequent-elements](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0977-squares-of-a-sorted-array](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sujit-2005/LeetCode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -181,6 +183,7 @@ muhahahahaha😈
 | [0125-valid-palindrome](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1089-duplicate-zeros) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sujit-2005/LeetCode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
