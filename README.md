@@ -67,6 +67,7 @@ muhahahahaha😈
 | [0451-sort-characters-by-frequency](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0821-shortest-distance-to-a-character](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 ## Trie
@@ -286,4 +287,5 @@ muhahahahaha😈
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
