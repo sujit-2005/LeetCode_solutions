@@ -1,21 +1,16 @@
 class Solution:
     def shortestToChar(self, s: str, c: str) -> List[int]:
         n=len(s)
-        d=[0]*n
-        for i in range(n):
-            j=i
-            lc=len(s)
-            rc=len(s)
-            while j>=0:
-                if s[j]==c:
-                    lc=min(lc,i-j)
-                j-=1
-            j=i
-            while j<n:
-                if s[j]==c:
-                    rc=min(rc,j-i)
-                j+=1
-            d[i]=min(rc,lc)
-        return d
-
-        
+        arr=[n]*n
+        prev=-n
+        for i in range (n):
+            if s[i]==c:
+                prev=i
+            arr[i]=i-prev
+        #print(arr)
+        prev=2*n
+        for i in range(n-1,-1,-1):
+            if s[i]==c:
+                prev=i
+            arr[i]=min(arr[i],prev-i)
+        return(arr)
