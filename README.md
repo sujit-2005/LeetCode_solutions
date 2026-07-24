@@ -33,6 +33,7 @@ muhahahahaha😈
 | [0414-third-maximum-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -281,4 +282,8 @@ muhahahahaha😈
 | [0141-linked-list-cycle](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0876-middle-of-the-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
