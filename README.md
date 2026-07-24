@@ -45,6 +45,7 @@ muhahahahaha😈
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1480-running-sum-of-1d-array](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1652-defuse-the-bomb](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1652-defuse-the-bomb) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1920-build-array-from-permutation](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1920-build-array-from-permutation) |
 | [1991-find-the-middle-index-in-array](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1991-find-the-middle-index-in-array) |
@@ -288,4 +289,5 @@ muhahahahaha😈
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1652-defuse-the-bomb](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1652-defuse-the-bomb) |
 <!---LeetCode Topics End-->
