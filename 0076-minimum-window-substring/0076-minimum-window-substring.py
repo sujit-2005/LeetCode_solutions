@@ -7,27 +7,15 @@ class Solution:
 
         left = 0
         ans = ""
-        formed = 0
-        required = len(need)
 
         for right in range(len(s)):
-            ch = s[right]
-            window[ch] += 1
+            window[s[right]] += 1
 
-            if ch in need and window[ch] == need[ch]:
-                formed += 1
-
-            while formed == required:
-                curr = s[left:right + 1]
-
-                if ans == "" or len(curr) < len(ans):
-                    ans = curr
+            while all(window[ch] >= need[ch] for ch in need):
+                if ans == "" or (right - left + 1) < len(ans):
+                    ans = s[left:right+1]
 
                 window[s[left]] -= 1
-
-                if s[left] in need and window[s[left]] < need[s[left]]:
-                    formed -= 1
-
                 left += 1
 
         return ans
