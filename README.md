@@ -39,6 +39,7 @@ muhahahahaha😈
 | [0740-delete-and-earn](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0821-shortest-distance-to-a-character](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [0904-fruit-into-baskets](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1052-grumpy-bookstore-owner](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1089-duplicate-zeros](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1089-duplicate-zeros) |
@@ -98,6 +99,7 @@ muhahahahaha😈
 | [0424-longest-repeating-character-replacement](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0740-delete-and-earn](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0740-delete-and-earn) |
+| [0904-fruit-into-baskets](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -302,6 +304,7 @@ muhahahahaha😈
 | [0209-minimum-size-subarray-sum](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0904-fruit-into-baskets) |
 | [1052-grumpy-bookstore-owner](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1652-defuse-the-bomb) |
