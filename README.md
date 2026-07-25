@@ -68,6 +68,7 @@ muhahahahaha😈
 | [0125-valid-palindrome](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0165-compare-version-numbers) |
+| [0424-longest-repeating-character-replacement](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0821-shortest-distance-to-a-character](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -92,6 +93,7 @@ muhahahahaha😈
 | [0217-contains-duplicate](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0740-delete-and-earn](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0740-delete-and-earn) |
 | [1207-unique-number-of-occurrences](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -295,6 +297,7 @@ muhahahahaha😈
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1052-grumpy-bookstore-owner](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
