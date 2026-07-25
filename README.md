@@ -64,6 +64,7 @@ muhahahahaha😈
 | [0013-roman-to-integer](https://github.com/sujit-2005/adm_python/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sujit-2005/adm_python/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sujit-2005/adm_python/tree/master/0020-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0139-word-break) |
@@ -85,6 +86,7 @@ muhahahahaha😈
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sujit-2005/adm_python/tree/master/0013-roman-to-integer) |
+| [0076-minimum-window-substring](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -296,6 +298,7 @@ muhahahahaha😈
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0643-maximum-average-subarray-i) |
