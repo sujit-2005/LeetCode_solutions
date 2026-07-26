@@ -1,16 +1,25 @@
 class Solution:
-    def maximumProduct(self, A: List[int]) -> int:
-        a = b = c = -1001
-        x = y = 1001
+    def maximumProduct(self, nums: List[int]) -> int:
+        max1 = max2 = max3 = float("-inf")
+        min1 = min2 = float("inf")
 
-        for n in A:
-            pa, pb, px = a, b, x
-            
-            a = max(a, n)
-            b = max(b, min(pa, n))
-            c = max(c, min(pb, n))
-            
-            x = min(x, n)
-            y = min(y, max(px, n))
+        for num in nums:
+            # Update three largest numbers
+            if num > max1:
+                max3 = max2
+                max2 = max1
+                max1 = num
+            elif num > max2:
+                max3 = max2
+                max2 = num
+            elif num > max3:
+                max3 = num
 
-        return max(a * b * c, a * x * y)
+            # Update two smallest numbers
+            if num < min1:
+                min2 = min1
+                min1 = num
+            elif num < min2:
+                min2 = num
+
+        return max(max1 * max2 * max3, max1 * min1 * min2)
