@@ -72,6 +72,7 @@ muhahahahaha😈
 | [0165-compare-version-numbers](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0165-compare-version-numbers) |
 | [0424-longest-repeating-character-replacement](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0567-permutation-in-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -98,6 +99,7 @@ muhahahahaha😈
 | [0347-top-k-frequent-elements](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0567-permutation-in-string) |
 | [0740-delete-and-earn](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0740-delete-and-earn) |
 | [0904-fruit-into-baskets](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -210,6 +212,7 @@ muhahahahaha😈
 | [0202-happy-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [0567-permutation-in-string](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0567-permutation-in-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0876-middle-of-the-linked-list](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -305,6 +308,7 @@ muhahahahaha😈
 | [0076-minimum-window-substring](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0904-fruit-into-baskets) |
 | [1052-grumpy-bookstore-owner](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1052-grumpy-bookstore-owner) |
