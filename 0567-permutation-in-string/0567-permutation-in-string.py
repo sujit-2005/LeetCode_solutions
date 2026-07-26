@@ -1,16 +1,15 @@
-from collections import Counter
 class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
-        need=Counter(s1)
-        existing=Counter()
+        need=[0]*26
+        existing=[0]*26
+        for char in s1:
+            need[ord(char) - ord('a')] += 1
         left=0
         for right in range(len(s2)):
-            existing[s2[right]]=existing.get(s2[right],0)+1
+            existing[ord(s2[right])-ord('a')]+=1
             while right - left + 1 > len(s1):
-                existing[s2[left]]-=1
-                if existing[s2[left]]==0 :
-                    del existing[s2[left]] 
+                existing[ord(s2[left])-ord('a')]-=1
                 left+=1
-            if existing==need:
-                return True         
+            if need==existing:
+                return True
         return False
