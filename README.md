@@ -34,6 +34,7 @@ muhahahahaha😈
 | [0403-frog-jump](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0403-frog-jump) |
 | [0414-third-maximum-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -105,6 +106,7 @@ muhahahahaha😈
 | [0424-longest-repeating-character-replacement](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0523-continuous-subarray-sum](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0567-permutation-in-string) |
 | [0740-delete-and-earn](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0740-delete-and-earn) |
@@ -119,6 +121,7 @@ muhahahahaha😈
 | [0202-happy-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0202-happy-number) |
 | [0279-perfect-squares](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0279-perfect-squares) |
 | [0441-arranging-coins](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0441-arranging-coins) |
+| [0523-continuous-subarray-sum](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3536-maximum-product-of-two-digits](https://github.com/sujit-2005/LeetCode_solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -294,6 +297,7 @@ muhahahahaha😈
 | [0209-minimum-size-subarray-sum](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1480-running-sum-of-1d-array) |
