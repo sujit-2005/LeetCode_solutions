@@ -29,6 +29,7 @@ muhahahahaha😈
 | [0238-product-of-array-except-self](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0403-frog-jump](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0403-frog-jump) |
 | [0414-third-maximum-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0414-third-maximum-number) |
@@ -289,6 +290,7 @@ muhahahahaha😈
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1991-find-the-middle-index-in-array) |
@@ -320,4 +322,8 @@ muhahahahaha😈
 | [1052-grumpy-bookstore-owner](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1652-defuse-the-bomb) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
