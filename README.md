@@ -20,6 +20,7 @@ muhahahahaha😈
 | [0120-triangle](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sujit-2005/adm_python/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -164,6 +165,7 @@ muhahahahaha😈
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
