@@ -1,9 +1,10 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        freq={}
+        ones = 0
+        twos = 0
+
         for num in nums:
-            freq[num]=freq.get(num,0)+1
-        for num in freq:
-            if freq[num]==1:
-                return num
-        
+            ones = (ones ^ num) & ~twos
+            twos = (twos ^ num) & ~ones
+
+        return ones
