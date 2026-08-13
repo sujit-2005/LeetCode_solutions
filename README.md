@@ -125,6 +125,7 @@ muhahahahaha😈
 | ------- |
 | [0013-roman-to-integer](https://github.com/sujit-2005/adm_python/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0279-perfect-squares) |
 | [0441-arranging-coins](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0441-arranging-coins) |
@@ -167,6 +168,7 @@ muhahahahaha😈
 | ------- |
 | [0136-single-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0287-find-the-duplicate-number) |
@@ -348,4 +350,8 @@ muhahahahaha😈
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0303-range-sum-query-immutable) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
