@@ -169,6 +169,7 @@ muhahahahaha😈
 | [0136-single-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0190-reverse-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0268-missing-number) |
