@@ -126,6 +126,7 @@ muhahahahaha😈
 | [0013-roman-to-integer](https://github.com/sujit-2005/adm_python/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0279-perfect-squares) |
 | [0441-arranging-coins](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0441-arranging-coins) |
@@ -250,6 +251,7 @@ muhahahahaha😈
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1920-build-array-from-permutation](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1920-build-array-from-permutation) |
@@ -357,4 +359,8 @@ muhahahahaha😈
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0231-power-of-two) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
