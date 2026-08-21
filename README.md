@@ -279,6 +279,7 @@ muhahahahaha😈
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -288,6 +289,7 @@ muhahahahaha😈
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -326,6 +328,7 @@ muhahahahaha😈
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0112-path-sum) |
 | [0279-perfect-squares](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0279-perfect-squares) |
 ## Prefix Sum
@@ -389,6 +392,7 @@ muhahahahaha😈
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
