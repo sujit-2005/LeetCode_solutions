@@ -145,6 +145,7 @@ muhahahahaha😈
 | ------- |
 | [0020-valid-parentheses](https://github.com/sujit-2005/adm_python/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -279,6 +280,7 @@ muhahahahaha😈
 | [0110-balanced-binary-tree](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Binary Tree
@@ -287,6 +289,7 @@ muhahahahaha😈
 | [0110-balanced-binary-tree](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Divide and Conquer
@@ -385,4 +388,5 @@ muhahahahaha😈
 | [0110-balanced-binary-tree](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
