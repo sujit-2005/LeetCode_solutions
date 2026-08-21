@@ -80,6 +80,7 @@ muhahahahaha😈
 | [0125-valid-palindrome](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0165-compare-version-numbers) |
+| [0344-reverse-string](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -242,6 +243,7 @@ muhahahahaha😈
 | [0202-happy-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0567-permutation-in-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0876-middle-of-the-linked-list](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0876-middle-of-the-linked-list) |
