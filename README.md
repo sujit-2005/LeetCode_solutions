@@ -276,12 +276,14 @@ muhahahahaha😈
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0112-path-sum) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0112-path-sum) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Divide and Conquer
@@ -317,6 +319,7 @@ muhahahahaha😈
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0112-path-sum) |
 | [0279-perfect-squares](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0279-perfect-squares) |
 ## Prefix Sum
 |  |
@@ -377,4 +380,5 @@ muhahahahaha😈
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
