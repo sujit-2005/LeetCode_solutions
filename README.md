@@ -105,6 +105,7 @@ muhahahahaha😈
 | [0139-word-break](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0217-contains-duplicate) |
@@ -354,6 +355,7 @@ muhahahahaha😈
 | [0092-reverse-linked-list-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0146-lru-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Sliding Window
 |  |
@@ -373,6 +375,7 @@ muhahahahaha😈
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0303-range-sum-query-immutable) |
 ## Recursion
 |  |
@@ -389,4 +392,8 @@ muhahahahaha😈
 | [0112-path-sum](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
