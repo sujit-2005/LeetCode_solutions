@@ -38,6 +38,7 @@ muhahahahaha😈
 | [0347-top-k-frequent-elements](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0403-frog-jump](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0403-frog-jump) |
 | [0414-third-maximum-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0414-third-maximum-number) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0525-contiguous-array) |
@@ -203,6 +204,7 @@ muhahahahaha😈
 | [0347-top-k-frequent-elements](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -277,6 +279,7 @@ muhahahahaha😈
 | ------- |
 | [0011-container-with-most-water](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0045-jump-game-ii) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0605-can-place-flowers) |
 | [0763-partition-labels](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0763-partition-labels) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
