@@ -20,6 +20,7 @@ muhahahahaha😈
 | [0119-pascals-triangle-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sujit-2005/adm_python/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0135-candy](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0139-word-break) |
@@ -279,6 +280,7 @@ muhahahahaha😈
 | ------- |
 | [0011-container-with-most-water](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0045-jump-game-ii) |
+| [0135-candy](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0605-can-place-flowers) |
 | [0763-partition-labels](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0763-partition-labels) |
